@@ -1,0 +1,7 @@
+Coursework checklist:
+CirclesGUI
+DictionaryEditor
+DictionaryUI
+Thesaurus
+ThesaurusEditor
+ThesaurusUI
